@@ -31,9 +31,9 @@ const produtos = [
       link: "livros/Livro5.html"
     },
     {
-      nome: "Brain F*ck",
-      preco: "R$ 549,00",
-      imagem: "image/brainFu.jpg",
+      nome: "Introdução à Linguagem SQL",
+      preco: "R$ 54,00",
+      imagem: "image/Introdução à Linguagem SQL.jpg",
       link: "livros/Livro6.html"
     },
     
